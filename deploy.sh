@@ -18,7 +18,7 @@ if [ -z "$GITHUB_TOKEN" ]; then
 else
   msg='来自github actions的自动部署'
   githubUrl=https://lukexiaoyu:${GITHUB_TOKEN}@github.com/lukexiaoyu/blog_xiao.git
-  git config --global user.name "lukexiaoyu"
+  git config --global user.name "klpalace"
   git config --global user.email "814008000@163.com"
 fi
 git init
