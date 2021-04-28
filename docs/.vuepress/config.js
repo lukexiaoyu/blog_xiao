@@ -8,7 +8,7 @@ module.exports = {
 
   title: "Luke's home",
   description: '个人知识库',
-  base: '/blog_xiao/', // 格式：'/<仓库名>/'， 默认'/'
+  // base: '/blog_xiao/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
