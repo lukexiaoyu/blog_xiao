@@ -52,7 +52,7 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'https://gitee.com/lukexiaoasusual/images/raw/master/img/69200D4E0F7EAF98857CEB82F0A27E29.jpg',
+    avatar: '/img/luke.jpg',
     name: 'Luke xiao',
     slogan: 'K',
   },
